@@ -22,3 +22,11 @@ Explorar dados simulados de vendas para praticar habilidades de análise e visua
 - Matplotlib
 - Seaborn
 - VSCode
+
+
+![total_vendas](https://github.com/user-attachments/assets/35e89d30-9e2f-4ab4-a97c-49f8b201cf7e)
+
+![produtos_categoria](https://github.com/user-attachments/assets/3979742f-f302-4f71-9a5e-0ea5880c1b6a)
+
+![vendas_semana](https://github.com/user-attachments/assets/7034da73-d8b1-4637-a83a-a1d7b30b8c56)
+
